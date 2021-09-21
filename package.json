@@ -1,0 +1,25 @@
+{
+  "name": "allex_sinkacquiringlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for acquiring sinks",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-libs/sinkacquiring.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "sink",
+    "acquiring",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/sinkacquiring/issues"
+  },
+  "homepage": "https://github.com/allex-libs/sinkacquiring#readme"
+}
